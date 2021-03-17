@@ -6,3 +6,7 @@ apikey=xoxp-330759489742701623490174674431907275849120-1631666614863643825904663
 
 def main():
 antigravity.fly()
+
+
+var mongo_uri = "mongodb+srv://testuser:hub24aoeu@gg-is-awesome-gg273.mongodb.net/test?retryWrites=true&w=majority";
+
